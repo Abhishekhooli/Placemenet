@@ -18,5 +18,3 @@ public class Client {
 				service.addAdmin(admin);
 	}
 }
-
-
